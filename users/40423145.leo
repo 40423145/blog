@@ -56,7 +56,7 @@ Author: kmol
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;a href="http://40423145.github.io/blog"&gt;http://cad-lab.github.io/manual&lt;/a&gt;</t>
+&lt;a href="http://h2itw.github.io/blog"&gt;http://cad-lab.github.io/manual&lt;/a&gt;</t>
 <t tx="amd.20160329162138.1"></t>
 <t tx="amd.20160329163719.1"></t>
 <t tx="amd.20160329163719.2">@language python
@@ -89,7 +89,7 @@ Author: 40423145
 
 &lt;a href="http://cmsimply-read40423145.rhcloud.com/get_page?heading=head+1"&gt;CMSimply&lt;/a&gt;
 
-&lt;a href="http://40423145.github.io/blog/post/index.html"&gt;Pelican&lt;/a&gt;
+&lt;a href="http://h2itw.github.io/blog/post/index.html"&gt;Pelican&lt;/a&gt;
 
 &lt;a href="http://wp-read40423145.rhcloud.com/"&gt;WordPress&lt;/a&gt;
 </t>
