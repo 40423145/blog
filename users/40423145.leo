@@ -87,11 +87,11 @@ Author: 40423145
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;a href="http://cmsimply-read40423145.rhcloud.com/get_page?heading=head+1"&gt;CMSimply&lt;/a&gt;
+&lt;a href="http://cmsimply-h2itw.rhcloud.com/get_page?heading=head+1"&gt;CMSimply&lt;/a&gt;
 
 &lt;a href="http://h2itw.github.io/blog/post/index.html"&gt;Pelican&lt;/a&gt;
 
-&lt;a href="http://wp-read40423145.rhcloud.com/"&gt;WordPress&lt;/a&gt;
+&lt;a href="http://wp-h2itw.rhcloud.com/"&gt;WordPress&lt;/a&gt;
 </t>
 <t tx="leo.20160408095026.1"></t>
 <t tx="leo.20160408095046.1">@language python
